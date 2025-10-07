@@ -1,4 +1,4 @@
-# 🏢 Enterprise IT Support Home Lab Project
+#  Enterprise IT Support Home Lab Project
 
 > A comprehensive, production-grade IT infrastructure demonstrating enterprise help desk, cloud administration, and hybrid identity management capabilities.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Architecture](#-architecture)
@@ -26,7 +26,7 @@
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project simulates a complete enterprise IT environment, demonstrating end-to-end IT support capabilities from infrastructure deployment to ticket resolution. Built entirely in Microsoft Azure using free trials and open-source software, this lab showcases practical skills required for Help Desk Technician, Desktop Support Engineer, and Junior Systems Administrator roles.
 
@@ -49,7 +49,7 @@ This project simulates a complete enterprise IT environment, demonstrating end-t
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ### **High-Level Infrastructure Diagram**
 
@@ -121,7 +121,7 @@ This project simulates a complete enterprise IT environment, demonstrating end-t
 
 ---
 
-## 💻 Technologies Used
+##  Technologies Used
 
 ### **Cloud & Infrastructure**
 - **Microsoft Azure** - Virtual machines, networking, resource management
@@ -164,7 +164,7 @@ This project simulates a complete enterprise IT environment, demonstrating end-t
 
 ---
 
-## 🚀 Infrastructure Setup
+##  Infrastructure Setup
 
 ### **Phase 1: Azure Virtual Machine Deployment**
 
@@ -509,7 +509,7 @@ Purpose: Tickets awaiting user response
 
 ---
 
-## 🎫 Tickets Resolved
+##  Tickets Resolved
 
 ### **osTicket Platform (11 Tickets)**
 
@@ -728,7 +728,7 @@ Purpose: Tickets awaiting user response
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 ### **Overall Ticket Statistics**
 

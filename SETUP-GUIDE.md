@@ -7,11 +7,11 @@
 ## Prerequisites
 
 ### **Requirements:**
-- ☁️ Microsoft Azure account (free tier available)
-- 💳 Credit card for verification (no charges if staying in free tier)
-- 💻 Computer with internet browser
-- ⏱️ Time investment: 20-30 hours over 4-6 weeks
-- 📧 Email address (for account signups)
+-  Microsoft Azure account (free tier available)
+-  Credit card for verification (no charges if staying in free tier)
+-  Computer with internet browser
+-  Time investment: 20-30 hours over 4-6 weeks
+-  Email address (for account signups)
 
 **Estimated Costs:**
 - Azure: $0-70/month depending on VM usage (deallocate when not in use)
@@ -675,16 +675,6 @@ See [TICKETS.md](TICKETS.md) for complete ticket scenarios.
 ```bash
 # Create new repo on GitHub
 # Clone locally
-git clone https://github.com/yourusername/enterprise-it-homelab.git
-cd enterprise-it-homelab
-
-# Add files
-- README.md (comprehensive documentation)
-- TICKETS.md (all ticket resolutions)
-- SETUP-GUIDE.md (this file)
-- LESSONS-LEARNED.md
-- KNOWLEDGE-BASE.md
-- screenshots/ (folder with all images)
 
 # Commit and push
 git add .

@@ -88,14 +88,14 @@ Project Information:
 Access:
   Portal: homelabIT.atlassian.net/servicedesk/customer/portals
   Staff Panel: homelabIT.atlassian.net/jira/servicedesk/projects/ITS
-  
+
 Team:
   Admin: oritsejemineabiola@gmail.com
   Agents: 3 (Admin-Eyesan Jemine, John Smith, Sarah Johnson - documented for portfolio)
-<img width="1591" height="861" alt="Jira Team" src="https://github.com/user-attachments/assets/e9f66170-e54a-409e-b7f0-fc5ed55ab99c" />
+
 
 ```
-
+<img width="1591" height="861" alt="Jira Team" src="https://github.com/user-attachments/assets/e9f66170-e54a-409e-b7f0-fc5ed55ab99c" />  
 ### **Service Desk Configuration**
 
 **Portal Settings:**

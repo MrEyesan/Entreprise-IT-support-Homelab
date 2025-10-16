@@ -496,7 +496,8 @@ Time Saved: ~8 hours/month (based on similar ticket volumes)
 *Organized queue with priority indicators and status tracking*
 
 ### **Sample Resolved Ticket**
-![Resolved Ticket](screenshots/jira-ticket-detail.png)
+<img width="1596" height="861" alt="jira tickets solved" src="https://github.com/user-attachments/assets/f2fa8f17-91ba-4efb-9f67-3dd17a660fc4" />
+
 *Detailed ticket showing professional response and documentation*
 
 ### **SLA Performance**

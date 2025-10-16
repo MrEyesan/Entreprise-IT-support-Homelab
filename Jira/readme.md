@@ -358,7 +358,7 @@ Learning Curve Impact:
 
 ---
 
-## 📚 Knowledge Base Articles
+## Knowledge Base Articles
 
 ### **Articles Created in Jira**
 
@@ -373,18 +373,7 @@ Learning Curve Impact:
   - VM sizing recommendations
   - Preventive maintenance schedule
 
-**2. Azure AD Connect Cloud Sync Troubleshooting Guide**
-- **Views:** 38
-- **Helpful Ratings:** 97% (37 of 38)
-- **Linked Tickets:** 2
-- **Content Covers:**
-  - Sync scheduler management
-  - Password hash sync process
-  - Common sync errors and resolutions
-  - Monitoring sync health
-  - When to escalate
-
-**3. Conditional Access Policy Troubleshooting**
+**2. Conditional Access Policy Troubleshooting**
 - **Views:** 29
 - **Helpful Ratings:** 93% (27 of 29)
 - **Linked Tickets:** 1
@@ -395,7 +384,7 @@ Learning Curve Impact:
   - Emergency access options
   - Sign-in log analysis
 
-**4. OneDrive File Recovery Procedures**
+**3. OneDrive File Recovery Procedures**
 - **Views:** 52
 - **Helpful Ratings:** 96% (50 of 52)
 - **Linked Tickets:** 1
@@ -409,7 +398,7 @@ Learning Curve Impact:
 ### **KB Article Impact**
 
 ```
-Total Articles: 4
+Total Articles: 3
 Total Views: 166
 Average Helpful Rating: 95%
 Estimated Ticket Reduction: 40%

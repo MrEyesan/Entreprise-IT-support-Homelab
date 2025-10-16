@@ -320,9 +320,9 @@ Customer Satisfaction: 4.9/5 (simulated)
 |----------|---------|----------|---------|---------|
 | Cloud Infrastructure | 3 | 45 min | 15 min | 1h 15min |
 | M365/Hybrid Identity | 4 | 27 min | 8 min | 45 min |
-| Security/Access | 3 | 18 min | 12 min | 25 min |
-| Software/MDM | 2 | 2h | 1h 10min | 2h 45min |
-| Data/Email | 2 | 34 min | 18 min | 50 min |
+| Security/Access | 2 | 18 min | 12 min | 25 min |
+| Software/MDM | 1 | 2h | 1h 10min | 2h 45min |
+| Data/Email | 1 | 34 min | 18 min | 50 min |
 
 ### **Priority Distribution**
 

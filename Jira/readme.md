@@ -497,11 +497,13 @@ Time Saved: ~8 hours/month (based on similar ticket volumes)
 ## 🖼️ Screenshots
 
 ### **Jira Service Desk Dashboard**
-![Jira Dashboard](screenshots/jira-dashboard.png)
+<img width="1600" height="862" alt="Jira Dashboard" src="https://github.com/user-attachments/assets/df4a28fe-3ee3-44a7-959f-8971002199e7" />
+
 *Overview showing resolved tickets, SLA compliance, and performance metrics*
 
 ### **Ticket Queue View**
-![Ticket Queue](screenshots/jira-queue.png)
+<img width="1599" height="858" alt="Jira ticket Overview" src="https://github.com/user-attachments/assets/197d2588-54a1-4a44-a8bb-6d1ec578777f" />
+
 *Organized queue with priority indicators and status tracking*
 
 ### **Sample Resolved Ticket**

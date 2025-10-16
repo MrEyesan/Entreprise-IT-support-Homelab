@@ -199,7 +199,7 @@ SLA Performance by Priority:
 
 #### **Cloud Infrastructure (3 Tickets)**
 
-**1. Azure VM High CPU Usage** ⚡
+**1. Azure VM High CPU Usage** 
 - **Priority:** High
 - **Category:** Cloud Infrastructure
 - **Resolution Time:** 1 hour 15 minutes
@@ -208,7 +208,7 @@ SLA Performance by Priority:
 - **Solution:** Rescheduled scan to 11 PM, upgraded VM from B2s to B2ms
 - **Preventive Action:** Configured maintenance windows, performance monitoring alerts
 
-**2. Remote Desktop Connection Failed** 🔌
+**2. Remote Desktop Connection Failed** 
 - **Priority:** High
 - **Category:** Network Security
 - **Resolution Time:** 35 minutes
@@ -217,7 +217,7 @@ SLA Performance by Priority:
 - **Solution:** Added RDP allow rule, implemented Just-In-Time VM access
 - **Preventive Action:** NSG change management process, baseline backup
 
-**3. Azure Resource Access Request** ☁️
+**3. Azure Resource Access Request** 
 - **Priority:** Normal
 - **Category:** Cloud Permissions
 - **Resolution Time:** 15 minutes
@@ -229,7 +229,7 @@ SLA Performance by Priority:
 
 #### **Microsoft 365 & Hybrid Identity (4 Tickets)**
 
-**4. Microsoft 365 License Assignment** 📋
+**4. Microsoft 365 License Assignment** 
 - **Priority:** Normal
 - **Category:** User Provisioning
 - **Resolution Time:** 35 minutes
@@ -237,7 +237,7 @@ SLA Performance by Priority:
 - **Services Provisioned:** Exchange (50GB), Teams, OneDrive (1TB), SharePoint, Office ProPlus
 - **Solution:** Assigned E3 license, configured all M365 services
 
-**5. Azure AD Sync Failure** 🔄
+**5. Azure AD Sync Failure** 
 - **Priority:** Normal
 - **Category:** Hybrid Identity
 - **Resolution Time:** 20 minutes
@@ -246,7 +246,7 @@ SLA Performance by Priority:
 - **Solution:** Re-enabled configuration, forced delta sync, verified user appeared
 - **Preventive Action:** Monitoring alerts for sync failures
 
-**6. Password Sync Delay** 🔐
+**6. Password Sync Delay** 
 - **Priority:** High
 - **Category:** Hybrid Identity
 - **Resolution Time:** 8 minutes
@@ -255,7 +255,7 @@ SLA Performance by Priority:
 - **Solution:** Explained timing, verified sync completed
 - **User Education:** Documented password change best practices
 
-**7. Conditional Access Policy Block** 🚫
+**7. Conditional Access Policy Block** 
 - **Priority:** High
 - **Category:** Security / Remote Access
 - **Resolution Time:** 45 minutes
@@ -266,9 +266,9 @@ SLA Performance by Priority:
 
 ---
 
-#### **Security & Access Management (3 Tickets)**
+#### **Security & Access Management (2 Tickets)**
 
-**8. Multi-Factor Authentication Setup** 🔒
+**8. Multi-Factor Authentication Setup** 
 - **Priority:** Normal
 - **Category:** Security
 - **Resolution Time:** 25 minutes (phone support)
@@ -276,7 +276,7 @@ SLA Performance by Priority:
 - **Methods Configured:** Authenticator app, phone call, SMS, 10 recovery codes
 - **User Education:** Explained MFA prompts, backup methods, traveling abroad considerations
 
-**9. Security Group Modification** 👥
+**9. Security Group Modification** 
 - **Priority:** Normal
 - **Category:** Access Management
 - **Resolution Time:** 12 minutes
@@ -287,18 +287,9 @@ SLA Performance by Priority:
 
 ---
 
-#### **Software & Mobile Device Management (2 Tickets)**
+#### **Software & Mobile Device Management (1 Tickets)**
 
-**11. Intune Software Deployment** 💻
-- **Priority:** Normal
-- **Category:** Software Management
-- **Resolution Time:** 2 hours 45 minutes
-- **Impact:** Adobe Acrobat Pro deployed to 12 Marketing devices
-- **Success Rate:** 100% (12/12 devices)
-- **Method:** Win32 app package via Intune, required installation
-- **License Verification:** 12 licenses available and assigned
-
-**12. Mobile Device Enrollment Error** 📱
+**10. Mobile Device Enrollment Error** 
 - **Priority:** Medium
 - **Category:** Mobile Device Management
 - **Resolution Time:** 1 hour 10 minutes
@@ -337,7 +328,7 @@ Customer Satisfaction: 4.9/5 (simulated)
 
 ```
 High Priority:    21% (3 tickets)  - Avg: 43 minutes
-Medium Priority:  64% (9 tickets)  - Avg: 32 minutes
+Medium Priority:  64% (5 tickets)  - Avg: 32 minutes
 Low Priority:     14% (2 tickets)  - Avg: 40 minutes
 ```
 

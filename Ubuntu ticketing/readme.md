@@ -1,4 +1,4 @@
-# 🎫 osTicket Help Desk System Implementation
+#  osTicket Help Desk System Implementation
 
 > Open-source ticketing system deployed on Ubuntu Linux demonstrating traditional IT help desk capabilities with 11 resolved tickets covering account management, hardware support, software issues, and network troubleshooting.
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Why osTicket?](#why-osticket)
@@ -29,7 +29,7 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 This osTicket implementation demonstrates **traditional IT help desk capabilities** with focus on fundamental support scenarios that every IT professional encounters daily. Deployed on Ubuntu Linux using a LAMP stack, this shows both Linux system administration skills and help desk ticket management expertise.
 
@@ -42,7 +42,7 @@ This osTicket implementation demonstrates **traditional IT help desk capabilitie
 
 ---
 
-## 🤔 Why osTicket?
+##  Why osTicket?
 
 ### **Strategic Portfolio Decision**
 
@@ -72,7 +72,7 @@ osTicket was chosen to complement Jira Service Management by demonstrating:
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ### **Infrastructure Diagram**
 
@@ -142,7 +142,7 @@ Network Security Group: Allows inbound from lab network
 
 ---
 
-## 💻 LAMP Stack Configuration
+##  LAMP Stack Configuration
 
 ### **Component Versions**
 
@@ -337,7 +337,7 @@ drwxr-xr-x  www-data www-data  include/
 
 ---
 
-## 🎫 osTicket Configuration
+##  osTicket Configuration
 
 ### **Installation Process**
 
@@ -532,7 +532,7 @@ SLA Plans:
 
 ---
 
-## 🎫 Tickets Resolved
+##  Tickets Resolved
 
 ### **Complete Ticket List (11 Tickets)**
 
@@ -757,7 +757,7 @@ SLA Plans:
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 ### **Overall Statistics**
 
@@ -862,7 +862,7 @@ Time Saved: ~4 hours/month
 
 ---
 
-## 🌟 Key Features Demonstrated
+##  Key Features Demonstrated
 
 ### **Linux System Administration**
 
@@ -1015,7 +1015,7 @@ Time Saved: ~4 hours/month
 
 ---
 
-## 📖 Installation Guide
+## Installation Guide
 
 ### **Prerequisites**
 
@@ -1215,7 +1215,7 @@ sudo ufw status
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### **Common Issues and Solutions**
 
@@ -1494,7 +1494,7 @@ sudo tar -czf /backup/osticket-files-$(date +%Y%m%d).tar.gz \
 
 ---
 
-## 📊 Comparison: osTicket vs Jira
+##  Comparison: osTicket vs Jira
 
 ### **Side-by-Side Comparison**
 
@@ -1516,22 +1516,22 @@ sudo tar -czf /backup/osticket-files-$(date +%Y%m%d).tar.gz \
 ### **Ticket Focus Comparison**
 
 **osTicket Tickets (Traditional IT):**
-- 🖨️ Printer connectivity and drivers
-- 💻 Desktop performance optimization
-- 🔐 Account lockouts and password resets
-- 📧 Email client configuration
-- 🖥️ Monitor and hardware issues
-- 💿 Local software installations
-- 📁 File share access requests
+-  Printer connectivity and drivers
+-  Desktop performance optimization
+-  Account lockouts and password resets
+-  Email client configuration
+-  Monitor and hardware issues
+-  Local software installations
+-  File share access requests
 
 **Jira Tickets (Cloud/Modern IT):**
-- ☁️ Azure VM performance and management
-- 🔐 Microsoft 365 license assignment
-- 🔄 Hybrid identity synchronization
-- 📱 Mobile device management (Intune)
-- 🔒 Conditional Access policies
-- 💾 OneDrive file recovery
-- 🛡️ Security group modifications
+-  Azure VM performance and management
+-  Microsoft 365 license assignment
+-  Hybrid identity synchronization
+-  Mobile device management (Intune)
+-  Conditional Access policies
+-  OneDrive file recovery
+-  Security group modifications
 
 ### **Why Both Platforms Matter for Portfolio**
 
@@ -1550,7 +1550,7 @@ sudo tar -czf /backup/osticket-files-$(date +%Y%m%d).tar.gz \
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 ### **Planned Improvements**
 
@@ -1581,7 +1581,7 @@ sudo tar -czf /backup/osticket-files-$(date +%Y%m%d).tar.gz \
 
 ---
 
-## 📞 Contact & Resources
+## Contact & Resources
 
 **Portfolio:** [View Complete Project](../README.md)  
 **Detailed Tickets:** [All 11 osTicket Tickets](../TICKETS.md#osticket-platform-11-tickets)  
@@ -1598,7 +1598,7 @@ sudo tar -czf /backup/osticket-files-$(date +%Y%m%d).tar.gz \
 
 ---
 
-## 📄 License & Attribution
+##  License & Attribution
 
 **osTicket License:**
 - Open-source software under GPL v2
@@ -1612,7 +1612,7 @@ sudo tar -czf /backup/osticket-files-$(date +%Y%m%d).tar.gz \
 
 ---
 
-## ⭐ Key Takeaways
+##  Key Takeaways
 
 ### **What This Project Demonstrates:**
 

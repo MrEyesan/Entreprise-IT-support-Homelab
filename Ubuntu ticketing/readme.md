@@ -1581,13 +1581,6 @@ sudo tar -czf /backup/osticket-files-$(date +%Y%m%d).tar.gz \
 
 ---
 
-## Contact & Resources
-
-**Portfolio:** [View Complete Project](../README.md)  
-**Detailed Tickets:** [All 11 osTicket Tickets](../TICKETS.md#osticket-platform-11-tickets)  
-**Knowledge Base:** [KB Articles](../KNOWLEDGE-BASE.md)  
-**Setup Guide:** [Complete Installation Steps](../SETUP-GUIDE.md#phase-4-osticket-installation)  
-**Jira Comparison:** [Jira Service Management](../jira/README.md)
 
 ### **Official Resources**
 
@@ -1666,29 +1659,6 @@ sudo tar -czf /backup/osticket-files-$(date +%Y%m%d).tar.gz \
 - Scalable architecture
 
 ---
-
-## 🎤 Interview Talking Points
-
-### **"Why did you choose osTicket?"**
-
-> "I chose osTicket to complement Jira by demonstrating traditional help desk skills and Linux administration. While Jira showcases cloud-native support scenarios, osTicket proves I can handle desktop support fundamentals like printers, software installations, and account management.
->
-> Additionally, self-hosting osTicket on Ubuntu demonstrates my Linux command-line skills, LAMP stack knowledge, and ability to deploy applications without vendor support. This shows I can work in any IT environment, whether it's enterprise SaaS platforms or self-hosted open-source solutions."
-
-### **"What was challenging about the osTicket setup?"**
-
-> "The most challenging part was troubleshooting MySQL authentication errors during installation. MySQL 8.0 changed its syntax for creating users, and the documentation I was following used outdated MySQL 5.x commands.
->
-> I had to read MySQL 8.0 documentation, understand the new authentication method, and adapt the commands. This taught me that SQL syntax varies between versions, and you can't blindly follow old tutorials. I documented the correct syntax in my installation guide so others don't face the same issue."
-
-### **"How does osTicket compare to Jira?"**
-
-> "They serve different purposes in my portfolio. osTicket demonstrates traditional IT support—printers, desktops, local software—which is still relevant in many organizations. It also shows Linux and self-hosting skills.
->
-> Jira focuses on modern cloud scenarios: Azure, Microsoft 365, hybrid identity. It's cloud-native SaaS, while osTicket is self-hosted.
->
-> Together, they prove I can work with any ticketing platform and support both legacy and modern IT environments. That versatility is valuable because most companies use multiple systems or transition between them."
-
 ---
 
 **Bottom Line:**
@@ -1697,7 +1667,7 @@ sudo tar -czf /backup/osticket-files-$(date +%Y%m%d).tar.gz \
 ---
 
 **Last Updated:** October 2025  
-**Status:** ✅ Active - 11 tickets resolved  
+**Status:** ✅ Active - 10 tickets resolved  
 **Uptime:** 99.5%  
 **Platform Version:** osTicket 1.18.1  
 **Server OS:** Ubuntu Server 22.04 LTS

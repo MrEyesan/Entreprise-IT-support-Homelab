@@ -374,9 +374,9 @@ System Settings:
 Admin User:
   - First Name: Admin
   - Last Name: User
-  - Email: admin@homelab.local
+  - Email: eyesanjemine@homelab.local
   - Username: admin
-  - Password: P@ssw0rd123!
+ 
   
 Database Settings:
   - MySQL Hostname: localhost
@@ -411,7 +411,7 @@ ls -la /var/www/html/include/ost-config.php
 ```
 Staff Control Panel: http://10.0.0.6/scp/
 User Portal: http://10.0.0.6/
-Admin Login: admin / P@ssw0rd123!
+Admin Login: admin 
 ```
 
 **Department Setup:**

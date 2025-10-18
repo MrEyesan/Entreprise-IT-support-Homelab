@@ -1323,15 +1323,6 @@ sudo tar -czf /backup/osticket-files-$(date +%Y%m%d).tar.gz \
 -  OneDrive file recovery
 -  Security group modifications
 
-### **Why Both Platforms Matter for Portfolio**
-
-**Demonstrates:**
-1. **Platform Versatility** - Comfortable with multiple ITSM tools
-2. **Deployment Models** - Self-hosted vs SaaS experience
-3. **Full Stack** - Linux administration + help desk software
-4. **Cost Awareness** - Knows when to use free vs paid solutions
-5. **Comprehensive Skills** - Legacy and modern IT environments
-
 **Real-World Value:**
 - Many organizations use multiple ticketing systems
 - Some industries prefer self-hosted for data control
@@ -1429,27 +1420,7 @@ sudo tar -czf /backup/osticket-files-$(date +%Y%m%d).tar.gz \
    - Created comprehensive documentation
    - Maintained system security
 
-### **Business Value:**
 
-**Cost Savings:**
-- $0 ticketing system cost (vs $50-100/user/month for commercial)
-- Shows budget-conscious decision making
-- Demonstrates ROI awareness
-
-**Operational Excellence:**
-- 100% SLA compliance
-- 42-minute average resolution time
-- 90% first-contact resolution
-- Professional documentation standards
-
-**Technical Depth:**
-- Full stack understanding (OS → Web Server → Database → Application)
-- Can troubleshoot at any layer
-- Security-conscious implementation
-- Scalable architecture
-
----
----
 
 **Bottom Line:**
 > This osTicket implementation proves I can deploy, configure, secure, and maintain a production help desk system on Linux, while resolving traditional IT support tickets with professional documentation and 100% SLA compliance.
@@ -1457,7 +1428,7 @@ sudo tar -czf /backup/osticket-files-$(date +%Y%m%d).tar.gz \
 ---
 
 **Last Updated:** October 2025  
-**Status:** ✅ Active - 10 tickets resolved  
+**Status:** ✅ Active - 11 tickets resolved  
 **Uptime:** 99.5%  
 **Platform Version:** osTicket 1.18.1  
 **Server OS:** Ubuntu Server 22.04 LTS

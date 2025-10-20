@@ -505,7 +505,8 @@ Time Saved: ~8 hours/month (based on similar ticket volumes)
 *100% SLA compliance across all priority levels*
 
 ### **Knowledge Base**
-![Knowledge Base](screenshots/jira-kb.png)
+<img width="1600" height="861" alt="jira KB articles" src="https://github.com/user-attachments/assets/9e30ce28-9d58-4d7b-a511-3ea9bbec149e" />
+
 *Published articles with view counts and helpfulness ratings*
 
 ---

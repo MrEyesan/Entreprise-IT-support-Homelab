@@ -500,10 +500,6 @@ Time Saved: ~8 hours/month (based on similar ticket volumes)
 
 *Detailed ticket showing professional response and documentation*
 
-### **SLA Performance**
-![SLA Metrics](screenshots/jira-sla.png)
-*100% SLA compliance across all priority levels*
-
 ### **Knowledge Base**
 <img width="1600" height="861" alt="jira KB articles" src="https://github.com/user-attachments/assets/9e30ce28-9d58-4d7b-a511-3ea9bbec149e" />
 
@@ -511,7 +507,7 @@ Time Saved: ~8 hours/month (based on similar ticket volumes)
 
 ---
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
 ### **Technical Skills**
 
@@ -566,7 +562,7 @@ Time Saved: ~8 hours/month (based on similar ticket volumes)
 
 ---
 
-## ⚖️ Comparison: Jira vs osTicket
+##  Comparison: Jira vs osTicket
 
 ### **Platform Differences**
 
@@ -584,11 +580,11 @@ Time Saved: ~8 hours/month (based on similar ticket volumes)
 ### **Ticket Focus Differences**
 
 **Jira Tickets (Modern IT):**
-- ☁️ Cloud infrastructure (Azure VMs)
-- 🔐 Microsoft 365 administration
-- 🔄 Hybrid identity management
-- 📱 Mobile device management
-- 🔒 Security and compliance
+-  Cloud infrastructure (Azure VMs)
+-  Microsoft 365 administration
+-  Hybrid identity management
+-  Mobile device management
+-  Security and compliance
 
 **osTicket Tickets (Traditional IT):**
 - 🖨️ Printer troubleshooting
@@ -615,7 +611,7 @@ Time Saved: ~8 hours/month (based on similar ticket volumes)
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 ### **Planned Additions**
 
@@ -630,7 +626,7 @@ Time Saved: ~8 hours/month (based on similar ticket volumes)
 
 ---
 
-## 📞 Contact & Resources
+## Contact & Resources
 
 **Portfolio:** [View Complete Project](../README.md)  
 **Detailed Tickets:** [All 14 Jira Tickets](../TICKETS.md#jira-service-management-14-tickets)  
@@ -639,7 +635,7 @@ Time Saved: ~8 hours/month (based on similar ticket volumes)
 
 ---
 
-## 📄 License & Usage
+##  License & Usage
 
 This Jira Service Management configuration and documentation is part of my IT portfolio demonstration project. 
 
@@ -653,7 +649,7 @@ If you use this as a template, please link back to this repository.
 
 ---
 
-## ⭐ Key Takeaways
+##  Key Takeaways
 
 **What This Demonstrates:**
 

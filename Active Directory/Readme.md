@@ -1,4 +1,4 @@
-# 🔐 Active Directory & Hybrid Identity Infrastructure
+#  Active Directory & Hybrid Identity Infrastructure
 
 > Enterprise directory services implementation featuring Windows Server Active Directory synchronized with Microsoft Entra ID (Azure AD) via Cloud Sync, demonstrating complete identity and access management for hybrid cloud environments.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Architecture](#architecture)
@@ -27,7 +27,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 This implementation demonstrates **enterprise-grade identity and access management** spanning on-premises Active Directory and cloud-based Microsoft Entra ID (formerly Azure AD). The hybrid identity architecture enables seamless authentication across both environments, providing users with single sign-on (SSO) access to both on-premises resources and Microsoft 365 cloud services.
 
@@ -57,7 +57,7 @@ This implementation demonstrates **enterprise-grade identity and access manageme
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ### **Hybrid Identity Architecture Diagram**
 
@@ -194,7 +194,7 @@ Azure Virtual Network (10.0.0.0/24)
 
 ---
 
-## 💻 Active Directory Implementation
+##  Active Directory Implementation
 
 ### **Domain Specifications**
 
@@ -562,7 +562,7 @@ Add-ADFineGrainedPasswordPolicySubject -Identity "IT_Admin_Policy" -Subjects "IT
 
 ---
 
-## 📜 Group Policy Objects
+## Group Policy Objects
 
 ### **GPO Overview**
 
@@ -689,7 +689,7 @@ Get-GPResultantSetOfPolicy -ReportType Html -Path C:\rsop.html
 
 ---
 
-## 🔄 Hybrid Identity Setup
+## Hybrid Identity Setup
 
 ### **Microsoft Entra Connect Cloud Sync**
 
@@ -920,7 +920,7 @@ Test-NetConnection -ComputerName login.microsoftonline.com -Port 443
 
 ---
 
-## 🎫 Troubleshooting Scenarios
+## Troubleshooting Scenarios
 
 ### **Scenario 1: Domain Join Failure**
 
@@ -1157,7 +1157,7 @@ Set-ADUser -Identity mdavis -ChangePasswordAtLogon $true
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 ### **Active Directory Statistics**
 
@@ -1267,7 +1267,7 @@ Monitoring:
 
 ---
 
-## 🎓 Skills Demonstrated
+##  Skills Demonstrated
 
 ### **Active Directory Administration**
 
@@ -1353,7 +1353,7 @@ Monitoring:
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ### **Active Directory Users and Computers**
 ![ADUC](screenshots/ad-users-computers.png)
@@ -1385,7 +1385,7 @@ Monitoring:
 
 ---
 
-## 📖 Installation Guide
+##  Installation Guide
 
 ### **Quick Start: Active Directory Setup**
 
@@ -1477,7 +1477,7 @@ Verify users show "Source: Windows Server AD"
 
 ---
 
-## 📞 Contact & Resources
+## Contact & Resources
 
 **Portfolio:** [View Complete Project](../README.md)  
 **Related Sections:**
@@ -1493,7 +1493,7 @@ Verify users show "Source: Windows Server AD"
 
 ---
 
-## ⭐ Key Takeaways
+##  Key Takeaways
 
 ### **What This Implementation Demonstrates:**
 
@@ -1546,7 +1546,7 @@ Verify users show "Source: Windows Server AD"
 
 ---
 
-## 🎤 Interview Talking Points
+##  Interview Talking Points
 
 ### **"Tell me about your Active Directory experience"**
 

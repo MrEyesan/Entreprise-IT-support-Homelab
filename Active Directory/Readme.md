@@ -1460,25 +1460,6 @@ Verify users show "Source: Windows Server AD"
 
 ---
 
-##  Interview Talking Points
-
-### **"Tell me about your Active Directory experience"**
-
-> "I deployed a complete Active Directory environment on Windows Server 2022, managing 10 user accounts across 5 organizational units organized by department. I created security groups for role-based access control and enforced three Group Policy Objects for password policies, desktop security, and workstation restrictions.
->
-> The environment also demonstrates hybrid identity—I synchronized on-premises AD with Microsoft Entra ID using Cloud Sync, which reduced password synchronization time from 30 minutes to under 5 minutes. This gives users single sign-on access to both on-premises resources and Microsoft 365 cloud services."
-
-### **"How would you troubleshoot a domain join failure?"**
-
-> "I'd start with DNS because 80% of Active Directory issues are DNS-related. First, I'd verify the client's DNS settings point to the domain controller. Then I'd test DNS resolution with nslookup to ensure the domain name resolves correctly.
->
-> Next, I'd verify connectivity to the domain controller on port 389 (LDAP) using Test-NetConnection. If those check out, I'd run nltest /dsgetdc to confirm the client can locate a domain controller. Finally, I'd check if the computer account limit has been reached or if there are network security group rules blocking traffic in Azure."
-
-### **"What's the difference between Cloud Sync and traditional Azure AD Connect?"**
-
-> "Cloud Sync is Microsoft's modern, cloud-first approach to directory synchronization. It uses a lightweight agent instead of a full application, is configured and managed entirely in the cloud, and syncs changes in 2-5 minutes versus 30 minutes with traditional AD Connect.
->
-> Microsoft deprecated the traditional Azure AD Connect and now recommends Cloud Sync for all new deployments. In my lab, Cloud Sync reduced password sync time by 83%, which significantly improves user experience when resetting passwords."
 
 ---
 

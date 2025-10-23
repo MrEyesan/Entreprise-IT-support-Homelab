@@ -1267,16 +1267,6 @@ Monitoring:
 
 ---
 
-
-
-✅ **Cloud Security:**
-- Multi-factor authentication
-- Conditional Access policies
-- Secure password hash synchronization
-- Encrypted communication channels
-
----
-
 ##  Screenshots
 
 ### **Active Directory Users and Computers**

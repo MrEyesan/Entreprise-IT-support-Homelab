@@ -343,7 +343,7 @@ Get-ADOrganizationalUnit -Filter * | Select Name, DistinguishedName
 
 ---
 
-## 👥 User Management
+## User Management
 
 ### **User Account Creation**
 
@@ -503,7 +503,7 @@ Get-ADGroupMember -Identity "HR_Team" | Select Name
 
 ---
 
-## 🔒 Security Configuration
+##  Security Configuration
 
 ### **Password Policy**
 
@@ -1267,83 +1267,7 @@ Monitoring:
 
 ---
 
-##  Skills Demonstrated
 
-### **Active Directory Administration**
-
-✅ **Domain Services:**
-- Domain controller installation and promotion
-- Forest and domain functional level selection
-- DNS integration and configuration
-- FSMO role understanding
-- Replication concepts
-
-✅ **Organizational Design:**
-- OU structure planning and implementation
-- Naming convention development
-- Logical organization by department
-- Scalable architecture design
-
-✅ **User & Group Management:**
-- Bulk user creation via PowerShell
-- Security group creation and membership
-- User attribute management
-- Account lifecycle procedures
-- Delegation of administrative tasks
-
-✅ **Group Policy:**
-- GPO creation and configuration
-- Policy linking and enforcement
-- Security filtering and WMI filters
-- Troubleshooting policy application
-- GPO backup and restore procedures
-
-### **Hybrid Identity Management**
-
-✅ **Directory Synchronization:**
-- Microsoft Entra Connect Cloud Sync deployment
-- Sync scope configuration (OU filtering)
-- Attribute mapping understanding
-- Sync monitoring and health checks
-- Troubleshooting sync failures
-
-✅ **Password Hash Synchronization:**
-- Security model understanding
-- Sync latency management
-- User expectation setting
-- Testing and verification procedures
-
-✅ **Identity Governance:**
-- User provisioning automation
-- Single sign-on (SSO) concepts
-- Hybrid authentication flows
-- Identity lifecycle management
-
-### **Troubleshooting & Problem-Solving**
-
-✅ **Systematic Approach:**
-- DNS-first troubleshooting methodology
-- Event log analysis
-- PowerShell diagnostic commands
-- Network connectivity verification
-- Service status checks
-
-✅ **Tools Mastery:**
-- Active Directory Users and Computers (ADUC)
-- Group Policy Management Console (GPMC)
-- Event Viewer
-- PowerShell Active Directory module
-- Azure/Entra admin center
-- gpresult, gpupdate, nltest commands
-
-### **Security Best Practices**
-
-✅ **Security Implementation:**
-- Strong password policies
-- Account lockout policies
-- Principle of least privilege
-- Security group-based access control
-- Audit logging enabled
 
 ✅ **Cloud Security:**
 - Multi-factor authentication

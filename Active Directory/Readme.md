@@ -1453,10 +1453,7 @@ Verify users show "Source: Windows Server AD"
 - Password policy compliance: 100%
 - Encrypted synchronization protects credentials
 
-**Cost Savings:**
-- Cloud Sync: $0 (included with M365 E3)
-- Reduced help desk load: 40% fewer password tickets
-- Automated provisioning: 2 hours saved per new employee
+
 
 ---
 

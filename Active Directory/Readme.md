@@ -1408,17 +1408,6 @@ Verify users show "Source: Windows Server AD"
 ---
 
 
-3. ✅ **Identity & Access Management**
-   - Centralized user management (10 users)
-   - Automated cloud account provisioning
-   - Strong password policies enforced
-   - Multi-factor authentication enabled
-
-4. ✅ **Security Best Practices**
-   - Principle of least privilege
-   - Account lockout policies
-   - Encrypted password synchronization
-   - Audit logging enabled
 
 5. ✅ **Troubleshooting Expertise**
    - Systematic diagnostic approach

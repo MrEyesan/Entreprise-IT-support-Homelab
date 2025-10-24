@@ -1409,11 +1409,6 @@ Verify users show "Source: Windows Server AD"
 
 ---
 
-**Bottom Line:**
-> This Active Directory and Hybrid Identity implementation proves I can deploy, configure, and manage enterprise directory services spanning on-premises and cloud environments, with strong troubleshooting skills and security best practices.
-
----
-
 **Last Updated:** October 2025  
 **Status:** ✅ Active & Operational  
 **Domain:** homelab.local  

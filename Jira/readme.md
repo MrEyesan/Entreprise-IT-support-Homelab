@@ -1,4 +1,4 @@
-# 🔷 Jira Service Management Implementation
+#  Jira Service Management Implementation
 
 > Enterprise-grade ITSM platform demonstrating modern cloud-focused IT support capabilities with 10 resolved tickets covering Azure, Microsoft 365, and hybrid identity scenarios.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Why Jira?](#why-jira)
@@ -26,7 +26,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 This Jira Service Management instance demonstrates enterprise-level IT service management capabilities with a focus on **modern cloud infrastructure support**. Unlike the traditional help desk scenarios in osTicket (printers, local software), Jira tickets focus on:
 
@@ -44,7 +44,7 @@ This Jira Service Management instance demonstrates enterprise-level IT service m
 
 ---
 
-## 🤔 Why Jira?
+##  Why Jira?
 
 ### **Strategic Portfolio Decision**
 
@@ -74,7 +74,7 @@ Including Jira alongside osTicket demonstrates:
 
 ---
 
-## ⚙️ Platform Configuration
+## Platform Configuration
 
 ### **Project Setup**
 
@@ -117,16 +117,16 @@ Email Channel: Enabled for ticket creation
 
 ### **Configured Request Types**
 
-| # | Request Type | Icon | Description | Default Priority | SLA Target |
+| # | Request Type | Description | Default Priority | SLA Target |
 |---|--------------|------|-------------|-----------------|------------|
-| 1 | **Password Reset** | 🔐 | Account password reset and unlock | Medium | 30 min |
-| 2 | **Software Installation** | 💿 | Install or update software applications | Normal | 2 hours |
-| 3 | **Hardware Issue** | 🖥️ | Computer, printer, peripheral problems | High | 1 hour |
-| 4 | **Network Problem** | 🌐 | Internet, VPN, connectivity issues | High | 1 hour |
-| 5 | **Access Request** | 🔑 | File share, application, system access | Normal | 4 hours |
-| 6 | **Email Issue** | 📧 | Email sending, receiving, config problems | Medium | 1 hour |
-| 7 | **New User Setup** | 👤 | Onboarding and account creation | Normal | 4 hours |
-| 8 | **Mobile Device** | 📱 | Phone, tablet, MDM support | Medium | 2 hours |
+| 1 | **Password Reset** | Account password reset and unlock | Medium | 30 min |
+| 2 | **Software Installation** | Install or update software applications | Normal | 2 hours |
+| 3 | **Hardware Issue** | Computer, printer, peripheral problems | High | 1 hour |
+| 4 | **Network Problem** | Internet, VPN, connectivity issues | High | 1 hour |
+| 5 | **Access Request** |  File share, application, system access | Normal | 4 hours |
+| 6 | **Email Issue** |  Email sending, receiving, config problems | Medium | 1 hour |
+| 7 | **New User Setup** | Onboarding and account creation | Normal | 4 hours |
+| 8 | **Mobile Device** | Phone, tablet, MDM support | Medium | 2 hours |
 <img width="1599" height="858" alt="Jira Request Creation" src="https://github.com/user-attachments/assets/4501b46f-cdf3-4332-bba0-ac05f0955509" />
 
 
@@ -144,7 +144,7 @@ Each request type includes:
 
 ---
 
-## ⏱️ SLA Configuration
+##  SLA Configuration
 
 ### **Service Level Agreements**
 
@@ -299,7 +299,7 @@ SLA Performance by Priority:
 - **Error Code:** 0x80180014 resolved
 
 ---
-## 📊 Performance Metrics
+##  Performance Metrics
 
 ### **Overall Statistics**
 
@@ -407,7 +407,7 @@ Time Saved: ~8 hours/month (based on similar ticket volumes)
 
 ---
 
-## 🌟 Key Features Demonstrated
+##  Key Features Demonstrated
 
 ### **ITSM Best Practices**
 
@@ -483,7 +483,7 @@ Time Saved: ~8 hours/month (based on similar ticket volumes)
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ### **Jira Service Desk Dashboard**
 <img width="1600" height="862" alt="Jira Dashboard" src="https://github.com/user-attachments/assets/df4a28fe-3ee3-44a7-959f-8971002199e7" />
@@ -587,11 +587,11 @@ Time Saved: ~8 hours/month (based on similar ticket volumes)
 -  Security and compliance
 
 **osTicket Tickets (Traditional IT):**
-- 🖨️ Printer troubleshooting
-- 💻 Local software installations
-- 🖥️ Desktop performance issues
-- 🌐 Network connectivity basics
-- 📧 Email client configuration
+- Printer troubleshooting
+-  Local software installations
+-  Desktop performance issues
+-  Network connectivity basics
+-  Email client configuration
 
 ### **Why Both Platforms Matter**
 
